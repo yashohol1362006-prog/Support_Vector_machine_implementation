@@ -12,7 +12,7 @@ This project explores the Titanic dataset using Python, performs exploratory dat
 
 ## 📊 Dataset
 The Titanic dataset is loaded using Seaborn's built-in dataset.
-
+ 
 - **Total records:** 891 passengers
 - **Original features:** 15 columns
 - **Target variable:** `survived`
